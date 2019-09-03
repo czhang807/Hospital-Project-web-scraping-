@@ -1,1 +1,1 @@
-# Hospital-Project-web-scraping-
+# Hospital-Project-EHR-scraping
